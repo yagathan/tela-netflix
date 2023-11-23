@@ -1,2 +1,7 @@
-# tela-netflix
-Projeto Clone da tela principal do Netflix
+# Tela Netflix
+
+**Projeto:**
+
+Projeto realizado utilizando HTML e CSS. 
+
+
